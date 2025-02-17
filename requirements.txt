@@ -1,0 +1,12 @@
+IPython
+PIL
+cv2
+logging
+matplotlib
+numpy
+pandas
+seaborn
+shutil
+sklearn
+tensorflow
+tqdm
